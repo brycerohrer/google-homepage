@@ -1,10 +1,1 @@
-<!DOCTYPE html>
-<html>
-    <head>
-
-    </head>
-
-    <body>
-        <p> "Hello World" </p>
-    </body>
-</html>
+This is a README for my Odin Project
