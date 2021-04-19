@@ -1,0 +1,26 @@
+﻿59828306871be489c36def89f75d8e85c45b007d access token for new school linux 
+https://github.com/OU-CS3560/examples/pull/128/commits
+
+
+
+
+Although i understand what the difference between the two would be, with my project no errors were thrown in either way. Cppcheck will find the more hidden errors that a compiler just doesn’t think is necessary or just simply can't find. The compiler is good for while you are coding, but if you need to do some serious analysis to make sure your code is top notch, that would be the way to go instead. 
+
+
+In terms of cppcheck on doxygen, it found many many lines of errors. So many I couldn’t believe it, but I suppose there will always be something to fix, optimize and such, and not always needed. Cppcheck onitself even brought up some errors, which I found interesting because Cppcheck can even see its errors in itself. Quite cool.
+
+
+i will complete my assignment today.
+
+
+I will complete my assignment today.
+
+
+I will complete my assignment today.
+
+
+I will complete my assignment today 
+
+
+meeting 
+17th and today
